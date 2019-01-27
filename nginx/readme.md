@@ -1,14 +1,14 @@
 
 ### 情報
-* 公式サイト
+* 公式サイト  
 https://nginx.org/en/
 
 
 
 ### インストール
-* CentOS系リポジトリ
+* CentOS系リポジトリ  
 http://nginx.org/packages/mainline/centos/7/$basearch/
-* yumのリポジトリに設定
+* yumのリポジトリに設定  
 vi /etc/yum.repos.d/nginx.repo
 ```
 [nginx]
@@ -19,4 +19,4 @@ enabled=1
 ```
 
 ### 設定ファイル
-* default
+* default  
